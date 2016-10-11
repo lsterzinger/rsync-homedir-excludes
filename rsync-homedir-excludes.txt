@@ -15,11 +15,11 @@
 # (uncomment the files you don't need)        #
 ###############################################
 
-#.android
-#.AndroidStudio*/
-#Android/Sdk
-#.gradle
-#.gvm
+.android
+.AndroidStudio*/
+Android/Sdk
+.gradle
+.gvm
 #.grails/
 #.grails_history
 #.kde/share/apps/nepomuk
@@ -27,21 +27,21 @@
 #.local/libvirt
 #.vagrant
 #.vagrant.d
-#.wine
+.wine
 #.twister
 #/twister
-#Applications/eclipse*
-#/Downloads
-#*Popcorntime*
+Applications/eclipse*
+/Downloads
+*Popcorntime*
 #/Scribus
-#/VirtualBox*
+/VirtualBox*
 #
 ## Add Game Folders here:
 #
-#/games
-#.local/share/Steam
-#.minecraft
-#.PlayOnLinux
+/games
+.local/share/Steam
+.minecraft
+.PlayOnLinux
 
 ################################################
 # These directories may definitely be excluded #
