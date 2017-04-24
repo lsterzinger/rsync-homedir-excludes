@@ -14,7 +14,7 @@
 # directories, probably not worth a backup    #
 # (uncomment the files you don't need)        #
 ###############################################
-
+anaconda*/
 .android
 .AndroidStudio*/
 Android/Sdk
